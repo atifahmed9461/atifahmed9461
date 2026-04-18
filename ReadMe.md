@@ -2,7 +2,7 @@
 <!-- <div align="center"> -->
 <!-- 👨‍💻 Just a regular developer who loves to code. Building, learning, and improving one line at a time. -->
 
-<img src="./assets/atifahmed.jpg" width="100%">
+<!-- <img src="./assets/atifahmed.jpg" width="100%"> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=atifahmed9461&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
